@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi! I'm Daniel Mekonnen, a passionate software engineering student immersed in the worlds of advanced Data Structures and Algorithms, backend development, and machine learning. 
-Currently working on mobile app development with Flutter. Happy to help with anything related! 😅 Also happy to get help if you have the time.
+👋 Hi! I'm Daniel Mekonnen, a passionate aspiring software engineer immersed in the worlds of advanced Data Structures and Algorithms, backend development, and machine learning. 
+Happy to help with anything related! 😅 Also happy to get help if you have the time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mekonnen-daniel/) 
